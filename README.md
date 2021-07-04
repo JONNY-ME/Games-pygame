@@ -1,3 +1,3 @@
 # Games-pygame
 
-Simple games developed by using pygame module
+Simple games developed by pygame module
